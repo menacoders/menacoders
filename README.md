@@ -1,8 +1,9 @@
 ### Welcome to our Github Profile 👋
 
 MENA Coders for Information Technology.
+مينا كودرز لخدمات تكنولوجيا المعلومات
 
 ### Contact Us:
-- menacoders.com
-- mangetoar.com
+- https://menacoders.com
+- https://mangetoar.com
 - hello@menacoders.com
