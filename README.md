@@ -5,5 +5,5 @@ MENA Coders for Information Technology.
 
 ### Contact Us:
 - https://menacoders.com
-- https://mangetoar.com
+- https://magentoar.com
 - hello@menacoders.com
