@@ -7,6 +7,3 @@ MENA Coders for Information Technology.
 - https://menacoders.com
 - https://magentoar.com
 - hello@menacoders.com
-
-## Magento 2 extensions & services تصفح خدمات واضافات ماجنتو على متجرنا
-https://store.menacoders.com
